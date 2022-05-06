@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Acqua di Gio",
+    "brand": "Giorgio Armani",
+    "gender": "male",
+    "olfactoryFamilies": ["aquatic", "aromatic"],
+    "perfumers": [
+      { "name": "Alberto Morillas" },
+      { "name": "Annick Menardo" },
+      { "name": "Christian Dussoulier" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bentley for Men",
+    "brand": "Bentley",
+    "gender": "male",
+    "olfactoryFamilies": ["amber", "spicy"],
+    "perfumers": [{ "name": "Nathalie Lorson" }]
+  },
+  {
+    "id": 3,
+    "name": "Cool Water",
+    "brand": "Davidoff",
+    "gender": "male",
+    "olfactoryFamilies": ["aquatic", "aromatic"],
+    "perfumers": [{ "name": "Pierre Bourdon" }]
+  }
+]
